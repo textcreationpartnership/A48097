@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Pope to the French King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48097</idno>
+            <idno type="STC">Wing L1537A</idno>
+            <idno type="STC">ESTC R221357</idno>
+            <idno type="EEBO-CITATION">99832676</idno>
+            <idno type="PROQUEST">99832676</idno>
+            <idno type="VID">37150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1781:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Pope to the French King.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end by the Archbishop of Paris (François de Harlay de Champvallon) and 33 others; dated: 20 July 1680.</note>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Signed at end: Given at Rome in Great Saint Marys, under the Seal of the Fisher.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  France --  Controversial literature --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>France --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:37150:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <head>A LETTER FROM THE POPE TO THE French KING.</head>
+            <opener>
+               <salute>To our dear Son in Chriſt Jeſus, <hi>LEWIS,</hi> the Moſt Chriſtian King.<lb/>
+                  <hi>Moſt dear Son in Chriſt, health and our Apoſtolick Benediction,</hi>
+               </salute>
+            </opener>
+            <p>THE high Exploits of your Royal Valour have drawn upon them the Eyes of all Chriſtendom, being a great deal of comfort to our Fatherly care, as well in regard of the glory of the Army, as the hope of your Triumph. For conſidering, as we do, with much grief the impiety of the Hereticks, living in ſome places
+<pb n="2" facs="tcp:37150:2"/>
+               <!-- PDF PAGE 43 -->
+without fear or danger, and exerciſing on others the Laws of cruel Government, We now thank the Lord of Hoſts, that hath in ſo fit an opportunity made your Majeſty take up Arms to maintain the Divinity of the Catholick Religion (a fair Apprentiſhip of a Royal Warfare) and worthy of a moſt Chriſtian King. What an admirable thing it is, that the age which others out of ſoftneſs and idleneſs uſe to paſs away in Sports and Delights, your Majeſty ſhould employ ſo generally, ſo fortunately, in appeaſing Differences, in conducting Armies, and beſieging places of Hereticks, and all not without the ſpecial Counſel of God by whom Kings Reign. It is almoſt incredible that the very firſt ſteps of your Youth ſhould carry you to ſo troubleſome and high an Enterpriſe, and the Dangers and difficulties which ſtop others in their Courſes, ſhould only ſerve as a Spur to the greatneſs of your Courage. Dear Son, keep the Re<g ref="char:EOLhyphen"/>nown your Name hath got, follow the God that fighteth for you to the end: As you are now held the Thunder<g ref="char:EOLhyphen"/>bolt of War, and Buckler of Peace, ſo you may hereafter be held the praiſe of <hi>Iſrael,</hi> and the Glory of the World. From the Seat of our Apoſtolick Dignity, whither it hath pleaſed God to raiſe us, unworthy of ſo great a Grace, we aſſiſt your Armies with our hearts and affections, and to our Prayers prepare the Divine Remedies, and though we doubt not but your own Vertue will make you conſtant in the Work you have begun.</p>
+            <p>Nevertheleſs we have thought good to add our Exhorta<g ref="char:EOLhyphen"/>tions, that the World may ſee the cure we have of the ad<g ref="char:EOLhyphen"/>vancement of the true Religion, and how willing we are to give way to your Glory, you being hitherto infinitely bound to God for his bounty towards you, having your mind indued with Celeſtial Doctrine, and not with the bare Precepts of Humane Reaſons, do well know that King<g ref="char:EOLhyphen"/>doms have their Foundations upon the truth of the Or<g ref="char:EOLhyphen"/>thodox Faith, and indeed unleſs God keep the City what Principality can ſubſiſt with any aſſurance?</p>
+            <p>
+               <pb n="3" facs="tcp:37150:2"/>
+               <!-- PDF PAGE 43 -->
+It may be eaſily judged with what fidelity they are like<g ref="char:EOLhyphen"/>ly to defend the Royal Throne, that have caſt the very Saints themſelves out of the Temple, and, done as much as in them lay to put them out of the number of the bleſ<g ref="char:EOLhyphen"/>ſed, yea out of Paradiſe it ſelf, that with impious teme<g ref="char:EOLhyphen"/>rity condemn Inſtitutions of our Forefathers, the Cuſtoms of Kings, the Decrees of Popes, and the Ceremonies of the Church; theſe are diſturbers of our Church and the Com<g ref="char:EOLhyphen"/>mon-weal, and the Reproaches of <hi>France,</hi> whom the great God hath determined to be extermined in your Reign: Know then that all <hi>Europe</hi> (which the event of the Reign holds now in ſuſpence) hope ſhortly to hoiſt ſail upon the Ocean under your conduct, to the end that place which now ſerves for ſanctuary and protection to the Hereticks and Rebels may one day ſerve for a mark of your Victory.</p>
+            <p>We are confidently perſwaded, that neither fear nor in<g ref="char:EOLhyphen"/>conſtancy ſhall ever be able to divert you from the pur<g ref="char:EOLhyphen"/>ſuit of your Enterpriſe, only we would have you remem<g ref="char:EOLhyphen"/>ber, that the Saints in Heaven aſſiſts him that takes upon him the defence of Religion, and fights on his ſide like Fellow-Souldiers. The ſame God that heretofore hardened the Waters like dry Land, and turned the Waters of the Sea into a Wall to give ſafe paſſage to his Childrens Army, will certainly be as favourable to you; and then we ſhall have good cauſe to hope, that after you have eſtabliſhed your own Kingdom, and cruſh'd the impiety that is there, you may one day win the <hi>Orient</hi> and the <hi>Occident,</hi> imi<g ref="char:EOLhyphen"/>tating the Glory of Your Anceſtors, who have born ever as much reſpect to the Exhortations of Popes, as to the Commandments of Saint <hi>Lewis,</hi> whoſe Name You bear, and whoſe ſteps You follow, invites You to it; ſo did the firſt of Your Race, who in defending the Apoſtolick Authority, and propagating Chriſtian Religion, laid the ſureſt and beſt Foundation of Your Royal Houſe. Follow dear Son (which are the Ornaments of the World) the Commandments of Heaven, pour forth your Wrath and in<g ref="char:EOLhyphen"/>dignation
+<pb n="4" facs="tcp:37150:3"/>
+               <!-- PDF PAGE 44 -->
+upon thoſe people that have not known God, to the end the divine Treaſure of Heaven may belong to you by juſt acquiſition; in the mean time we ſend you our Apoſtolick Benediction.</p>
+            <closer>
+               <dateline>Given at <hi>Rome</hi> in Great Saint Marys, under the Seal of the <hi>Fiſher.</hi>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37150:3"/>
+            <!-- PDF PAGE 44 -->
+         </div>
+      </body>
+   </text>
+</TEI>
